@@ -1,4 +1,5 @@
 ONLINE BANIKING APPLICATION
+
 ● Spearheaded the development of an online banking application 
 ● Utilized Java servlets for robust server-side processing 
 ● Designed an intuitive user interface using HTML 
